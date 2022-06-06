@@ -1,12 +1,12 @@
-import React, { useEffect, useState } from 'react';
-import { graphql } from 'gatsby';
-import Layout from '../layout';
-import Seo from '../components/seo';
-import PostHeader from '../components/post-header';
-import PostNavigator from '../components/post-navigator';
-import Post from '../models/post';
-import PostContent from '../components/post-content';
-import Utterances from '../components/utterances';
+import React, { useEffect, useState } from "react";
+import { graphql } from "gatsby";
+import Layout from "../layout/MainLayout";
+import Seo from "../components/seo";
+import PostHeader from "../components/post-header";
+import PostNavigator from "../components/post-navigator";
+import Post from "../models/post";
+import PostContent from "../components/post-content";
+import Utterances from "../components/utterances";
 
 function BlogTemplate({ data }) {
   const [viewCount, setViewCount] = useState(null);
@@ -19,13 +19,13 @@ function BlogTemplate({ data }) {
 
   useEffect(() => {
     if (!siteUrl) return;
-    const namespace = siteUrl.replace(/(^\w+:|^)\/\//, '');
-    const key = curPost.slug.replace(/\//g, '');
+    const namespace = siteUrl.replace(/(^\w+:|^)\/\//, "");
+    const key = curPost.slug.replace(/\//g, "");
 
     fetch(
       `https://api.countapi.xyz/${
-        process.env.NODE_ENV === 'development' ? 'get' : 'hit'
-      }/${namespace}/${key}`,
+        process.env.NODE_ENV === "development" ? "get" : "hit"
+      }/${namespace}/${key}`
     ).then(async (result) => {
       const data = await result.json();
       setViewCount(data.value);
