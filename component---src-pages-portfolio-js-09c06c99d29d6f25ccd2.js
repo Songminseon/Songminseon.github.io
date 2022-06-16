@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkminseonblog=self.webpackChunkminseonblog||[]).push([[25],{8330:function(e,n,t){t.r(n);var l=t(7294),u=t(4851),c=t(579);n.default=function(){return l.createElement(u.Z,null,l.createElement(c.Z,{title:"포트폴리오"}),l.createElement("p",null,"나의 근사한 포토폴리오"))}}}]);
-//# sourceMappingURL=component---src-pages-portfolio-js-09c06c99d29d6f25ccd2.js.map
