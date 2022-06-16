@@ -1,6 +1,6 @@
 module.exports = {
-  title: `minseon blog`,
-  description: `minseon's blog`,
+  title: `minseon portfolio`,
+  description: `minseon portfolio`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://songminseon.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -43,40 +43,71 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: "2021.02 ~",
-        activity: "개인 블로그 개발 및 운영",
+        date: "2022.03 ~ ",
+        activity: "메타버스를 활용한 캡스톤 프로젝트",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
           github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
           demo: "https://www.zoomkoding.com",
         },
       },
-    ],
-
-    projects: [
-      // =====        [Project Sample and Structure]        =====
-      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
       {
-        title: "",
-        description: "",
-        techStack: ["", ""],
-        thumbnailUrl: "",
+        date: "2022.01 ~2022.03",
+        activity: "구글 솔루션 챌린지 터치마이코딩 프로젝트 참여",
         links: {
-          post: "",
-          github: "",
-          googlePlay: "",
-          appStore: "",
-          demo: "",
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
         },
       },
-      // ========================================================
-      // ========================================================
       {
-        title: "개발 블로그 테마 개발",
-        description:
-          "개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.",
-        techStack: ["gatsby", "react"],
-        thumbnailUrl: "blog.png",
+        date: "2022.01 ~ 2021.02",
+        activity: "쿠드비건 프리랜서 개발자 근무",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2021.10 ~ 2021.12",
+        activity: "비건라이프 플랫폼 쿠드비건 외주",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2021.08 ~ 2021.06",
+        activity: "Google Developer Student Club 코어멤버",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2021.08 ~ 2021.09",
+        activity: "한화라이프 라이프 어드바이저 프로젝트 참여",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2021.07 ~ 2021.09",
+        activity: "블록체인 웹 플랫폼 프로젝트 참여",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2021.05 ~ 2021.07",
+        activity: "연애상담 플랫폼 달핑",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
           github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",

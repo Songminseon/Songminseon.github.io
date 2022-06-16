@@ -6,7 +6,7 @@ const PortfolioPage = () => {
   return (
     <Layout>
       <Seo title="포트폴리오" />
-      <p>나의 근사한 포토폴리오</p>
+      <p>개발중</p>
     </Layout>
   );
 };

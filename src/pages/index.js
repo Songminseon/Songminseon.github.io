@@ -20,13 +20,13 @@ function HomePage({ data }) {
     <Layout>
       <Seo title="Home" />
       <Bio author={author} language={language} />
-      <PostTabs
+      {/* <PostTab
         posts={posts}
         onChange={onTabIndexChange}
         tabs={categories}
         tabIndex={tabIndex}
         showMoreButton
-      />
+      /> */}
     </Layout>
   );
 }
