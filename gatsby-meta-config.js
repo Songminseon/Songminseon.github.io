@@ -32,6 +32,7 @@ module.exports = {
       {
         date: "",
         activity: "",
+        category: "",
         links: {
           github: "",
           post: "",
@@ -44,6 +45,7 @@ module.exports = {
       // ========================================================
       {
         date: "2022.03 ~ ",
+        category: "project",
         activity: "메타버스를 활용한 캡스톤 프로젝트",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -52,7 +54,8 @@ module.exports = {
         },
       },
       {
-        date: "2022.01 ~2022.03",
+        date: "2022.01 ~ 2022.03",
+        category: "project",
         activity: "구글 솔루션 챌린지 터치마이코딩 프로젝트 참여",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -61,7 +64,8 @@ module.exports = {
         },
       },
       {
-        date: "2022.01 ~ 2021.02",
+        date: "2021.10 ~ 2022.02",
+        category: "work",
         activity: "쿠드비건 프리랜서 개발자 근무",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -71,6 +75,7 @@ module.exports = {
       },
       {
         date: "2021.10 ~ 2021.12",
+        category: "project",
         activity: "비건라이프 플랫폼 쿠드비건 외주",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -79,7 +84,8 @@ module.exports = {
         },
       },
       {
-        date: "2021.08 ~ 2021.06",
+        date: "2021.08 ~ 2022.06",
+        category: "activity",
         activity: "Google Developer Student Club 코어멤버",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -89,6 +95,7 @@ module.exports = {
       },
       {
         date: "2021.08 ~ 2021.09",
+        category: "project",
         activity: "한화라이프 라이프 어드바이저 프로젝트 참여",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -98,7 +105,8 @@ module.exports = {
       },
       {
         date: "2021.07 ~ 2021.09",
-        activity: "블록체인 웹 플랫폼 프로젝트 참여",
+        category: "project",
+        activity: "K-studi 블록체인 웹 플랫폼 프로젝트 참여",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
           github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
@@ -107,6 +115,7 @@ module.exports = {
       },
       {
         date: "2021.05 ~ 2021.07",
+        category: "project",
         activity: "연애상담 플랫폼 달핑 프로젝트 참여",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -116,6 +125,7 @@ module.exports = {
       },
       {
         date: "2021.05 ~ 2021.09",
+        category: "work",
         activity: "이노플 플랫폼 개발팀 계약직 근무",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -125,6 +135,7 @@ module.exports = {
       },
       {
         date: "2021.04",
+        category: "project",
         activity: '사회적 기업 동구밭에서 주관하는 "블루로드 캠페인" 개발 프로젝트 참여',
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -134,6 +145,7 @@ module.exports = {
       },
       {
         date: "2020.12 ~ 2021.04",
+        category: "project",
         activity: '크라우드 기부 플랫폼 서비스 "기부니가 좋다" 프로젝트 참여',
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -143,6 +155,7 @@ module.exports = {
       },
       {
         date: "2020.11 ~ 2021.04",
+        category: "work",
         activity: "대학생 창업팀 퍼네이션 합류",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -152,6 +165,7 @@ module.exports = {
       },
       {
         date: "2020.03 ~ 2020.12",
+        category: "etc",
         activity: '前 서울과학기술대학교 산업공학과(ITM학부) 학과동아리 "소피스트" 부회장',
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -161,6 +175,7 @@ module.exports = {
       },
       {
         date: "2020.06 ~ 2020.11",
+        category: "activity",
         activity: "前 서울과학기술대학교 창업동아리8기 케이크워크 대표",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -169,7 +184,18 @@ module.exports = {
         },
       },
       {
+        date: "2020.06 ~ 2020.11",
+        category: "project",
+        activity: '커스텀케이크 중개플랫폼 서비스 "케이크워크" 프로젝트 참여',
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
         date: "2020.02 ~ 2020.12",
+        category: "activity",
         activity: '前 "멋쟁이 사자처럼" 8기 운영진',
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -179,6 +205,7 @@ module.exports = {
       },
       {
         date: "2020.06",
+        category: "project",
         activity: '문화예술주최 팀 "역잘알" 프로젝트 참여',
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -188,6 +215,7 @@ module.exports = {
       },
       {
         date: "2020.02",
+        category: "etc",
         activity: "영국 Northumbria University(NewCastle) 단기연수",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -197,6 +225,7 @@ module.exports = {
       },
       {
         date: "2020.02",
+        category: "prize",
         activity: "서울과학기술대학교 동계프로그래밍 경진대회 공모전 대상 수상",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -206,6 +235,7 @@ module.exports = {
       },
       {
         date: "2019",
+        category: "prize",
         activity: "서울과학기술대학교 산업공학과(ITM학부)주최 교내 Global Challenge 금상 수상",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -215,6 +245,7 @@ module.exports = {
       },
       {
         date: "2017.05 ~ 2019.02",
+        category: "etc",
         activity: "육군 특수전사령부 제1공수여단 전역",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -224,6 +255,7 @@ module.exports = {
       },
       {
         date: "2016",
+        category: "activity",
         activity: '대학생 자원봉사 플랫폼 "서울동행" 봉사 참여',
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
@@ -233,6 +265,7 @@ module.exports = {
       },
       {
         date: "2016",
+        category: "etc",
         activity: "서울과학기술대학교 산업공학과(ITM학부) 입학 (23.02 졸업예정)",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",

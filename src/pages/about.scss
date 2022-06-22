@@ -1,0 +1,21 @@
+.navigation-container {
+    margin: 20px 0px 25px 0px;
+}
+
+.navigation-container button {
+    margin-right: 10px;
+    background-color: white;
+    border: none;
+    font-size: 16px;
+    color: black;
+    border-radius: 10px;
+    padding: 6px 10px;
+}
+
+.active-category {
+    font-weight: 700;
+}
+
+.navgiation-container button:last-child {
+    margin-right: 0px;
+}

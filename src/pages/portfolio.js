@@ -5,6 +5,7 @@ import Seo from "../components/seo";
 import Bio from "../components/bio";
 
 import ProjectSection from "../components/project-section";
+import "./portfolio.scss";
 
 function PortfolioPage({ data }) {
   const metaData = data.site.siteMetadata;
@@ -12,7 +13,7 @@ function PortfolioPage({ data }) {
   const { projects } = about;
   return (
     <Layout>
-      <p>?</p>
+      <button className="a">ss</button>
       <Seo title="About" />
       <Bio author={author} language={language} />
       <ProjectSection projects={projects} />
