@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkminseonblog=self.webpackChunkminseonblog||[]).push([[25],{8330:function(e,n,t){t.r(n);var l=t(7294),u=t(4851),c=t(579);n.default=function(){return l.createElement(u.Z,null,l.createElement(c.Z,{title:"포트폴리오"}),l.createElement("p",null,"개발중"))}}}]);
-//# sourceMappingURL=component---src-pages-portfolio-js-c011433da95555cdb941.js.map
