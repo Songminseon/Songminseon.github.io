@@ -1,20 +1,20 @@
-import React from "react";
+import React, { useState } from "react";
 import { graphql } from "gatsby";
 import Layout from "../layout/MainLayout";
 import Seo from "../components/seo";
 import Bio from "../components/bio";
 import TimeStampSection from "../components/timestamp-section";
-import ProjectSection from "../components/project-section";
 
 function AboutPage({ data }) {
   const metaData = data.site.siteMetadata;
   const { author, about, language } = metaData;
-  const { timestamps, projects } = about;
+  const { timestamps } = about;
+
+  const [category, setCategory] = useState("all");
+
   return (
     <Layout>
-      <p>?</p>
       <Seo title="About" />
-      <Bio author={author} language={language} />
       <TimeStampSection timestamps={timestamps} />
     </Layout>
   );

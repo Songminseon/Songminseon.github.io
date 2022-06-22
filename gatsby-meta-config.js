@@ -107,7 +107,165 @@ module.exports = {
       },
       {
         date: "2021.05 ~ 2021.07",
-        activity: "연애상담 플랫폼 달핑",
+        activity: "연애상담 플랫폼 달핑 프로젝트 참여",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2021.05 ~ 2021.09",
+        activity: "이노플 플랫폼 개발팀 계약직 근무",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2021.04",
+        activity: '사회적 기업 동구밭에서 주관하는 "블루로드 캠페인" 개발 프로젝트 참여',
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2020.12 ~ 2021.04",
+        activity: '크라우드 기부 플랫폼 서비스 "기부니가 좋다" 프로젝트 참여',
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2020.11 ~ 2021.04",
+        activity: "대학생 창업팀 퍼네이션 합류",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2020.03 ~ 2020.12",
+        activity: '前 서울과학기술대학교 산업공학과(ITM학부) 학과동아리 "소피스트" 부회장',
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2020.06 ~ 2020.11",
+        activity: "前 서울과학기술대학교 창업동아리8기 케이크워크 대표",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2020.02 ~ 2020.12",
+        activity: '前 "멋쟁이 사자처럼" 8기 운영진',
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2020.06",
+        activity: '문화예술주최 팀 "역잘알" 프로젝트 참여',
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2020.02",
+        activity: "영국 Northumbria University(NewCastle) 단기연수",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2020.02",
+        activity: "서울과학기술대학교 동계프로그래밍 경진대회 공모전 대상 수상",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2019",
+        activity: "서울과학기술대학교 산업공학과(ITM학부)주최 교내 Global Challenge 금상 수상",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2017.05 ~ 2019.02",
+        activity: "육군 특수전사령부 제1공수여단 전역",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2016",
+        activity: '대학생 자원봉사 플랫폼 "서울동행" 봉사 참여',
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+      {
+        date: "2016",
+        activity: "서울과학기술대학교 산업공학과(ITM학부) 입학 (23.02 졸업예정)",
+        links: {
+          post: "/gatsby-starter-zoomkoding-introduction",
+          github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
+          demo: "https://www.zoomkoding.com",
+        },
+      },
+    ],
+
+    projects: [
+      // =====        [Project Sample and Structure]        =====
+      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
+      {
+        title: "",
+        description: "",
+        techStack: ["", ""],
+        thumbnailUrl: "",
+        links: {
+          post: "",
+          github: "",
+          googlePlay: "",
+          appStore: "",
+          demo: "",
+        },
+      },
+      // ========================================================
+      // ========================================================
+      {
+        title: "개발 블로그 테마 개발",
+        description:
+          "개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.",
+        techStack: ["gatsby", "react"],
+        thumbnailUrl: "blog.png",
         links: {
           post: "/gatsby-starter-zoomkoding-introduction",
           github: "https://github.com/zoomkoding/zoomkoding-gatsby-blog",
