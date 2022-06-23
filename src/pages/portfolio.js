@@ -15,7 +15,6 @@ function PortfolioPage({ data }) {
     <Layout>
       <button className="a">ss</button>
       <Seo title="About" />
-      <Bio author={author} language={language} />
       <ProjectSection projects={projects} />
     </Layout>
   );

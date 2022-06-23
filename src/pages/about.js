@@ -31,10 +31,11 @@ function AboutPage({ data }) {
 
     if (value === "All") {
       filtered = timestamps;
+      setFormatList(filtered);
     } else {
       filtered = timestamps.filter((el) => el.category === value);
+      setFormatList([dummy, ...filtered]);
     }
-    setFormatList([dummy, ...filtered]);
     setCategory(value);
   };
 
