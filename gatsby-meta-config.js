@@ -50,7 +50,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -60,7 +60,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -70,7 +70,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -80,7 +80,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -90,7 +90,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -100,7 +100,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -110,7 +110,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -120,7 +120,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -130,7 +130,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -140,7 +140,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -150,7 +150,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -160,7 +160,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -170,7 +170,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -180,7 +180,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -190,7 +190,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -200,7 +200,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -210,7 +210,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -220,7 +220,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -230,7 +230,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -240,7 +240,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -250,7 +250,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -260,7 +260,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -270,7 +270,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
     ],
@@ -302,7 +302,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -315,7 +315,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -327,7 +327,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://www.zoomkoding.com",
+          demo: "",
         },
       },
       {
@@ -384,7 +384,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://dalping.com",
+          demo: "",
         },
       },
       {
@@ -396,7 +396,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://dalping.com",
+          demo: "",
         },
       },
       {
@@ -407,7 +407,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://dalping.com",
+          demo: "",
         },
       },
       {
@@ -418,7 +418,7 @@ module.exports = {
         links: {
           post: "/",
           github: "",
-          demo: "https://dalping.com",
+          demo: "",
         },
       },
       {
@@ -429,7 +429,7 @@ module.exports = {
         links: {
           post: "/",
           github: "/",
-          demo: "https://dalping.com",
+          demo: "",
         },
       },
     ],
