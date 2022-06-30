@@ -5,6 +5,7 @@ import Image from "../image";
 import "./style.scss";
 
 function ProjectSection({ projects }) {
+  console.log(projects);
   if (!projects || projects.length < 2) return null;
   return (
     <div className="project-section">
@@ -13,7 +14,7 @@ function ProjectSection({ projects }) {
         index === 0 ? null : (
           <div className="project" key={index}>
             <div className="head">
-              {project.title}&nbsp;&nbsp;
+              {project.title}({project.date})&nbsp;&nbsp;
               {project.links && (
                 <IconButtonBar links={project.links} style={{ color: "#a8a8a8", fontSize: 24 }} />
               )}

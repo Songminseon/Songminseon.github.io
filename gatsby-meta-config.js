@@ -280,6 +280,7 @@ module.exports = {
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
       {
         title: "",
+        category: "",
         description: "",
         techStack: ["", ""],
         thumbnailUrl: "",
@@ -293,23 +294,26 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
-      {
-        title: "개발 블로그 테마 개발",
-        description:
-          "개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.",
-        techStack: ["gatsby", "react"],
-        thumbnailUrl: "",
-        links: {
-          post: "/",
-          github: "",
-          demo: "",
-        },
-      },
+      // {
+      //   title: "개발 블로그 테마 개발",
+      //   category: "main",
+      //   description:
+      //     "개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.",
+      //   techStack: ["gatsby", "react"],
+      //   thumbnailUrl: "",
+      //   links: {
+      //     post: "/",
+      //     github: "",
+      //     demo: "",
+      //   },
+      // },
       {
         title: "캡스톤 프로젝트",
+        category: "side",
+        date: "2022",
         description:
           "학과에서 진행하는 캡스톤 프로젝트입니다. 메타버스를 활용한 컨퍼런스 개최라는 아이디어로 프로젝트를 진행하고 있습니다.",
-        techStack: ["gatsby", "react", "express", "unity"],
+        techStack: ["react", "express", "unity", "spring"],
         category: "production",
         thumbnailUrl: "",
         links: {
@@ -320,6 +324,8 @@ module.exports = {
       },
       {
         title: "Touch my coding",
+        category: "side",
+        date: "2022",
         description:
           "2022 Google Soultion Challenge 출마 작품입니다. 시각장애인에게 개발환경을 제공해주는 ide를 개발하였습니다.",
         techStack: ["react", "flask"],
@@ -332,6 +338,8 @@ module.exports = {
       },
       {
         title: "쿠드비건(CouldVegan)",
+        category: "main",
+        date: "2021",
         description:
           "지속가능한 비건지향 플랫폼 쿠드비건입니다. 프리랜서 개발자로 참여하여 개발의 모든 부분을 담당하였습니다.",
         techStack: ["react", "express"],
@@ -344,6 +352,8 @@ module.exports = {
       },
       {
         title: "라이프 어드바이저(life advisor)",
+        category: "main",
+        date: "2021",
         description:
           "한화생명에서 주관하는 마케팅 페이지 라이프 어드바이저 프로젝트에 참여하였습니다.",
         techStack: ["react", "typescript"],
@@ -356,6 +366,8 @@ module.exports = {
       },
       {
         title: "K-studio",
+        category: "main",
+        date: "2021",
         description: "k-studio에서 발행하는 블록체인 중개 플랫폼 웹사이트를 개발하였습니다.",
         techStack: ["react", "typescript", "express"],
         thumbnailUrl: "",
@@ -367,8 +379,10 @@ module.exports = {
       },
       {
         title: "달핑(dalping)",
+        category: "main",
+        date: "2021",
         description: '"이노플에서 관리하는 서비스인 달핑 웹앱 버전을 개발하였습니다."',
-        techStack: ["react", "typescript", "django"],
+        techStack: ["react", "typescript"],
         thumbnailUrl: "",
         links: {
           post: "/",
@@ -378,6 +392,8 @@ module.exports = {
       },
       {
         title: "블루로드 캠페인(Blueroad Campaign)",
+        category: "main",
+        date: "2021",
         description: '"동구밭"에서 주관하는 블루로드 캠페인 페이지를 개발하였습니다.',
         techStack: ["react"],
         thumbnailUrl: "blueroad.png",
@@ -389,6 +405,8 @@ module.exports = {
       },
       {
         title: "기부니가좋다",
+        category: "main",
+        date: "2021",
         description:
           '누구나 쉽게 참여할 수 있는 크라우드 기부 플랫폼 "기부니가좋다"를 개발하였습니다.',
         techStack: ["react", "express"],
@@ -401,6 +419,8 @@ module.exports = {
       },
       {
         title: "케이크워크(cakewalk)",
+        category: "side",
+        date: "2020",
         description: '커스텀마이징 케이크 중개 플랫폼 서비스 "케이크워크"를 개발하였습니다.',
         techStack: ["django"],
         thumbnailUrl: "",
@@ -412,6 +432,8 @@ module.exports = {
       },
       {
         title: "역잘알(역사 잘 알아요?)",
+        category: "side",
+        date: "2020",
         description: "문화예술 공모전에 참여한 프로젝트 입니다.",
         techStack: ["django"],
         thumbnailUrl: "",
@@ -423,6 +445,8 @@ module.exports = {
       },
       {
         title: "캐리미(Carry me)",
+        category: "side",
+        date: "2020",
         description: "서울과학기술대학교 동계프로그래밍 경진대회 공모전에 참여한 프로젝트입니다.",
         techStack: ["django"],
         thumbnailUrl: "",
