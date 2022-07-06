@@ -365,7 +365,7 @@ module.exports = {
         date: "2021",
         description: "k-studio에서 발행하는 블록체인 중개 플랫폼 웹사이트를 개발하였습니다.",
         techStack: ["react", "typescript", "express"],
-        thumbnailUrl: "",
+        thumbnailUrl: "kstudio.png",
         links: {
           post: "/",
           github: "",
@@ -378,7 +378,7 @@ module.exports = {
         date: "2021",
         description: '"이노플에서 관리하는 서비스인 달핑 웹앱 버전을 개발하였습니다."',
         techStack: ["react", "typescript"],
-        thumbnailUrl: "",
+        thumbnailUrl: "dalping.png",
         links: {
           post: "/",
           github: "",
