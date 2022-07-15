@@ -321,7 +321,7 @@ module.exports = {
         category: "production",
         thumbnailUrl: "",
         links: {
-          post: "https://pointed-jellyfish-2ce.notion.site/ST-art-6b6860bab1b94f4ea1cadc9d9d8fef6d",
+          post: "/start",
           github: "",
           demo: "",
         },
@@ -336,7 +336,7 @@ module.exports = {
         category: "production",
         thumbnailUrl: "",
         links: {
-          post: "https://pointed-jellyfish-2ce.notion.site/3197a241522d4d2199eca08b71c86907",
+          post: "/capston",
           github: "",
           demo: "",
         },
@@ -348,10 +348,9 @@ module.exports = {
         description:
           "2022 Google Soultion Challenge 출마 작품입니다. 시각장애인에게 개발환경을 제공해주는 ide를 개발하였습니다.",
         techStack: ["react", "flask"],
-        thumbnailUrl:
-          "https://pointed-jellyfish-2ce.notion.site/Touch-my-coding-488a182f33154d28b949dcd2c1ec723d",
+        thumbnailUrl: "",
         links: {
-          post: "/",
+          post: "/touch-my-coding",
           github: "",
           demo: "",
         },
@@ -365,7 +364,7 @@ module.exports = {
         techStack: ["react", "express"],
         thumbnailUrl: "couldvegan.png",
         links: {
-          post: "https://pointed-jellyfish-2ce.notion.site/a0a5373280704288a66c40a477bbf988",
+          post: "/couldvegan",
           github: "",
           demo: "https://www.couldvegan.com",
         },
@@ -379,7 +378,7 @@ module.exports = {
         techStack: ["react", "typescript"],
         thumbnailUrl: "life.png",
         links: {
-          post: "https://pointed-jellyfish-2ce.notion.site/e3d1943dd9394b74980f39fcaccf1173",
+          post: "/life-advisor",
           github: "",
           demo: "https://lifeadvisor.kr",
         },
@@ -392,8 +391,7 @@ module.exports = {
         techStack: ["react", "typescript", "express"],
         thumbnailUrl: "kstudio.png",
         links: {
-          post:
-            "https://pointed-jellyfish-2ce.notion.site/K-studio-0d27fcb5412048a1a672c3d0cc7fe281",
+          post: "/k-studio",
           github: "",
           demo: "https://kstudio.io",
         },
@@ -406,7 +404,7 @@ module.exports = {
         techStack: ["react", "typescript"],
         thumbnailUrl: "dalping.png",
         links: {
-          post: "https://pointed-jellyfish-2ce.notion.site/35f62842bd094355bc560802e3bb5a10",
+          post: "/dalping",
           github: "",
           demo: "https://dalping.com",
         },
@@ -419,7 +417,7 @@ module.exports = {
         techStack: ["react"],
         thumbnailUrl: "blueroad.png",
         links: {
-          post: "https://pointed-jellyfish-2ce.notion.site/90c6611071c94fa5a2df17fe555ed772",
+          post: "/blueroad",
           github: "",
           demo: "",
         },
@@ -433,7 +431,7 @@ module.exports = {
         techStack: ["react", "express"],
         thumbnailUrl: "funation.png",
         links: {
-          post: "https://pointed-jellyfish-2ce.notion.site/fc2920be23b74e55b47c4714269275dd",
+          post: "/funation",
           github: "",
           demo: "",
         },
