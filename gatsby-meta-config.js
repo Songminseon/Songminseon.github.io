@@ -45,6 +45,16 @@ module.exports = {
       // ========================================================
       {
         date: "2022.07 ~ ",
+        category: "project",
+        activity: "서울과학기술대학교 총학 ST'art 프로젝트 참여",
+        links: {
+          post: "/",
+          github: "",
+          demo: "",
+        },
+      },
+      {
+        date: "2022.07 ~ ",
         category: "work",
         activity: "문화토리 근무",
         links: {
@@ -303,6 +313,20 @@ module.exports = {
         },
       },
       {
+        title: "ST'art",
+        category: "production",
+        date: "2022",
+        description: "서울과학기술대학교 총학생회에서 진행중인 어플리케이션입니다.",
+        techStack: ["flutter", "spring", "react"],
+        category: "production",
+        thumbnailUrl: "",
+        links: {
+          post: "https://pointed-jellyfish-2ce.notion.site/ST-art-6b6860bab1b94f4ea1cadc9d9d8fef6d",
+          github: "",
+          demo: "",
+        },
+      },
+      {
         title: "캡스톤 프로젝트",
         category: "side",
         date: "2022",
@@ -312,7 +336,7 @@ module.exports = {
         category: "production",
         thumbnailUrl: "",
         links: {
-          post: "/",
+          post: "https://pointed-jellyfish-2ce.notion.site/3197a241522d4d2199eca08b71c86907",
           github: "",
           demo: "",
         },
@@ -340,34 +364,35 @@ module.exports = {
         techStack: ["react", "express"],
         thumbnailUrl: "couldvegan.png",
         links: {
-          post: "/",
+          post: "https://pointed-jellyfish-2ce.notion.site/a0a5373280704288a66c40a477bbf988",
           github: "",
           demo: "https://www.couldvegan.com",
         },
       },
       {
-        title: "라이프 어드바이저(life advisor)",
+        title: "라이프 어드바이저(life advisor)(운영중단)",
         category: "main",
         date: "2021",
         description:
           "한화생명에서 주관하는 마케팅 페이지 라이프 어드바이저 프로젝트에 참여하였습니다.",
         techStack: ["react", "typescript"],
-        thumbnailUrl: "",
+        thumbnailUrl: "life.jpg",
         links: {
-          post: "/",
+          post: "https://pointed-jellyfish-2ce.notion.site/e3d1943dd9394b74980f39fcaccf1173",
           github: "",
           demo: "https://lifeadvisor.kr",
         },
       },
       {
-        title: "K-studio",
+        title: "K-studio(운영중단)",
         category: "main",
         date: "2021",
         description: "k-studio에서 발행하는 블록체인 중개 플랫폼 웹사이트를 개발하였습니다.",
         techStack: ["react", "typescript", "express"],
         thumbnailUrl: "kstudio.png",
         links: {
-          post: "/",
+          post:
+            "https://pointed-jellyfish-2ce.notion.site/K-studio-0d27fcb5412048a1a672c3d0cc7fe281",
           github: "",
           demo: "https://kstudio.io",
         },
@@ -380,26 +405,26 @@ module.exports = {
         techStack: ["react", "typescript"],
         thumbnailUrl: "dalping.png",
         links: {
-          post: "/",
+          post: "https://pointed-jellyfish-2ce.notion.site/35f62842bd094355bc560802e3bb5a10",
           github: "",
           demo: "https://dalping.com",
         },
       },
       {
-        title: "블루로드 캠페인(Blueroad Campaign)",
+        title: "블루로드 캠페인(Blueroad Campaign)(운영중단)",
         category: "main",
         date: "2021",
         description: '"동구밭"에서 주관하는 블루로드 캠페인 페이지를 개발하였습니다.',
         techStack: ["react"],
         thumbnailUrl: "blueroad.png",
         links: {
-          post: "/",
+          post: "https://pointed-jellyfish-2ce.notion.site/90c6611071c94fa5a2df17fe555ed772",
           github: "",
           demo: "",
         },
       },
       {
-        title: "기부니가좋다",
+        title: "기부니가좋다(운영중단)",
         category: "main",
         date: "2021",
         description:
@@ -407,7 +432,7 @@ module.exports = {
         techStack: ["react", "express"],
         thumbnailUrl: "funation.png",
         links: {
-          post: "/",
+          post: "https://pointed-jellyfish-2ce.notion.site/fc2920be23b74e55b47c4714269275dd",
           github: "",
           demo: "",
         },
