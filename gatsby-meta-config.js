@@ -314,11 +314,10 @@ module.exports = {
       },
       {
         title: "ST'art",
-        category: "production",
+        category: "main",
         date: "2022",
         description: "서울과학기술대학교 총학생회에서 진행중인 어플리케이션입니다.",
         techStack: ["flutter", "spring", "react"],
-        category: "production",
         thumbnailUrl: "",
         links: {
           post: "/start",
@@ -333,7 +332,6 @@ module.exports = {
         description:
           "학과에서 진행하는 캡스톤 프로젝트입니다. 메타버스를 활용한 컨퍼런스 개최라는 아이디어로 프로젝트를 진행하고 있습니다.",
         techStack: ["react", "express", "unity", "spring"],
-        category: "production",
         thumbnailUrl: "",
         links: {
           post: "/capston",
