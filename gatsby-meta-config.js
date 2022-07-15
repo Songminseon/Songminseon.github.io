@@ -348,7 +348,8 @@ module.exports = {
         description:
           "2022 Google Soultion Challenge 출마 작품입니다. 시각장애인에게 개발환경을 제공해주는 ide를 개발하였습니다.",
         techStack: ["react", "flask"],
-        thumbnailUrl: "",
+        thumbnailUrl:
+          "https://pointed-jellyfish-2ce.notion.site/Touch-my-coding-488a182f33154d28b949dcd2c1ec723d",
         links: {
           post: "/",
           github: "",
@@ -376,7 +377,7 @@ module.exports = {
         description:
           "한화생명에서 주관하는 마케팅 페이지 라이프 어드바이저 프로젝트에 참여하였습니다.",
         techStack: ["react", "typescript"],
-        thumbnailUrl: "life.jpg",
+        thumbnailUrl: "life.png",
         links: {
           post: "https://pointed-jellyfish-2ce.notion.site/e3d1943dd9394b74980f39fcaccf1173",
           github: "",
