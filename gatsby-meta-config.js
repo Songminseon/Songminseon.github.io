@@ -44,7 +44,7 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: "2022.07 ~ ",
+        date: "2022.08 ~ 2022.09",
         category: "project",
         activity: "서울과학기술대학교 총학 ST'art 프로젝트 참여",
         links: {
@@ -54,7 +54,7 @@ module.exports = {
         },
       },
       {
-        date: "2022.07 ~ ",
+        date: "2022.07 ~ 2022.08",
         category: "work",
         activity: "문화토리 근무",
         links: {
@@ -317,7 +317,7 @@ module.exports = {
         category: "main",
         date: "2022",
         description: "서울과학기술대학교 총학생회에서 진행중인 어플리케이션입니다.",
-        techStack: ["flutter", "spring", "react"],
+        techStack: ["react"],
         thumbnailUrl: "",
         links: {
           post: "/start",
