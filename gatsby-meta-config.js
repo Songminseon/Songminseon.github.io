@@ -316,7 +316,7 @@ module.exports = {
         title: "ST'art",
         category: "main",
         date: "2022",
-        description: "서울과학기술대학교 총학생회에서 진행중인 어플리케이션입니다.",
+        description: "서울과학기술대학교 총학생회에서 진행한 어플리케이션입니다.",
         techStack: ["react"],
         thumbnailUrl: "",
         links: {
