@@ -44,6 +44,36 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
+        date: "2023.12 ~ 2024.01",
+        category: "project",
+        activity: "Prography 메인페이지 개편",
+        links: {
+          post: "/",
+          github: "",
+          demo: "",
+        },
+      },
+      {
+        date: "2023.10 ~ ",
+        category: "activity",
+        activity: "Prography 9기 매니저 활동",
+        links: {
+          post: "/",
+          github: "",
+          demo: "",
+        },
+      },
+      {
+        date: "2023.01 ~ ",
+        category: "work",
+        activity: "유니브스토어 근무",
+        links: {
+          post: "/",
+          github: "",
+          demo: "",
+        },
+      },
+      {
         date: "2022.08 ~ 2022.09",
         category: "project",
         activity: "서울과학기술대학교 총학 ST'art 프로젝트 참여",
@@ -64,7 +94,7 @@ module.exports = {
         },
       },
       {
-        date: "2022.03 ~ ",
+        date: "2022.03 ~ 2022.11",
         category: "project",
         activity: "메타버스를 활용한 캡스톤 프로젝트",
         links: {
@@ -309,6 +339,19 @@ module.exports = {
           github: "",
           googlePlay: "",
           appStore: "",
+          demo: "",
+        },
+      },
+      {
+        title: "Prography",
+        category: "main",
+        date: "2023",
+        description: "prography 메인페이지 개편",
+        techStack: ["react", "next"],
+        thumbnailUrl: "",
+        links: {
+          post: "/seoultech",
+          github: "",
           demo: "",
         },
       },
