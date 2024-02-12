@@ -18,8 +18,10 @@ categories: project
 ## 담당업무
 
 - 리액트(Typescript)를 활용한 어드민 페이지 개발
+- React-query, recoil 활용
 - AWS lambda를 활용한 이미지 리사이징 구현
 - Github Action을 활용한 CI/CD 구축
+- 서비스 오픈 후 1주일동안 1500여명 신규 회원 유치
 
 ```toc
 

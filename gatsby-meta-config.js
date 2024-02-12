@@ -350,7 +350,7 @@ module.exports = {
         techStack: ["react", "next"],
         thumbnailUrl: "",
         links: {
-          post: "/seoultech",
+          post: "/pro",
           github: "",
           demo: "",
         },
